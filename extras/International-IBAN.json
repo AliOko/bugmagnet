@@ -1,0 +1,83 @@
+{
+ "HU → Hungary": {
+    "Hungarian Foodbank Association": "HU69 1070 0024 6667 6548 5110 0005",
+    "University of Debrecen": "HU13 1003 4002 0028 2871 0000 0000",
+    "Okotars-HUF": "HU02 1090 0028 0000 0007 6230 0934",
+    "Okotars-USD": "HU52 1091 8001 0000 0007 6230 1014",
+    "Okotars-EUR": "HU16 1091 8001 0000 0007 6230 0013",
+    "BUDPORT-HUF": "HU 68 103000021057903849020017",
+    "BUDPORT-EUR": "HU 73 103000021057903848820010",
+    "BUDPORT-GBP": "HU 83 103000021057903840420018",
+    "Health Guard Hungary-HUF": "HU53 1160 0006 0000 0000 7853 4928",
+    "Health Guard Hungary-EUR": "HU98 1160 0006 0000 0000 7853 4894",
+    "Health Guard Hungary-USD": "HU82 1070 0536 2530 6808 5010 0002",
+    "eCon Engineering-HUF":"HU25 1080 0007 2000 0000 1208 0018",
+    "eCon Engineering-EUR":"HU49 1080 0007 3000 0000 1208 0026",
+    "eCon Engineering-USD": "HU73 1080 0007 4000 0000 1208 0034",
+    "University of Szeged-Medicine": "HU94-10004012-10008016-00220332",
+    "University of Szeged-Foundation": "HU79-10004885-10002010-00120335",
+    "British Council Hungary": "HU46 1080 0007 7723 7006 0000 0000",
+    "T-Systems Hungary-HUF": "HU17 1091 8001 0000 0068 7383 0003",
+    "T-Systems Hungary-EUR": "HU22 1091 8001 0000 0068 7383 0010",
+    "T-Systems Hungary-USD": "HU48 1091 8001 0000 0068 7383 0027",
+    "DotRoll": "HU 06-11713005-20406563-00000000"
+    },
+  "BE → Belgium":{
+    "Eurocircuits": "BE66 2300 3095 5043",
+    "Brilliant Belgium":"BE 74 4682 2047 5107",
+    "ShowTex": "BE 424 473582 022811",
+    "WGEO Belgium Branch Ltd-EUR": "BE78 9490 0787 0086",
+    "WGEO Belgium Branch Ltd-USD": "BE67 9490 0787 0187",
+    "TransStock-KBC": "BE45 7340 2116 3789",
+    "TransStock-Argenta": "BE03 9795 3448 7684",
+    "Dewit Law Office-Professional": "BE05 6300 2393 1575",
+    "Dewit Law Office-3rd party": "BE22 6303 2004 0647",
+    "Creative Belgium": "BE28 2100 3594 5020",
+    "FedEx": "BE75437750432151",
+    "JEF Europe": "BE36 0011 1287 9481",
+    "WeForest": "BE75 7340 2955 0451",
+    "Qualifio SA": "BE78 0016 0435 9586",
+    "ICRH": "BE26 3900 9658 0329"
+  },
+  "MD → Moldova":{
+    "Eximbank Gruppo Veneto Banca":{
+      "I.C.S. BT LEASING MD S.R.L. - MDL": "MD79EX0000000225129103MD",
+      "I.C.S. BT LEASING MD S.R.L. - EUR": "MD09EX0900000225179099EU",
+      "I.C.S. BT LEASING MD S.R.L. - USD": "MD03EX0900002251129103US"
+    },
+    "Moldova Agroindbank":{
+      "I.C.S. BT LEASING MD S.R.L. - MDL": "MD24AG000000022513016106 ",
+      "I.C.S. BT LEASING MD S.R.L. - EUR": "MD02AG000000022513016114 ",
+      "I.C.S. BT LEASING MD S.R.L. - USD": "MD56AG000000022513016112"
+    },
+    "Moldinconbank":{
+      "I.C.S. BT LEASING MD S.R.L. - MDL": "MD56ML000000002251809603"
+    },
+    "BCR Chisinau":{
+      "I.C.S. BT LEASING MD S.R.L. - MDL": "MD05RN000000002224101734"
+    }
+  },
+  "MK → Macedonia":{
+    "Foundation Centre of Islamic Civilization": "MK 07270722000009871",
+    "Ensemble of Folk Instruments and Songs": "MK07200001291154091",
+    "Makedonski Karitas": "MK07300701000655493"
+  },
+  "FR → France":{
+    "Eurocircuits": "FR76 3000 4025 5500 0102 6943 312"
+  },
+  "CH → Suisse":{
+    "Eurocircuits": "CH34 0076 5000 A087 8070 4"
+  },
+  "ME → Montenegro":{
+    "ME-NET": "ME25510000000001998725"
+  },
+  "AL → Albania":{
+    "Nehemiah Gateway": "AL03209425530000550024220002"
+  },
+  "DE → Germany": {
+    "Nehemiah Gateway": "DE66 7605 0101 0011 0409 38"
+  },
+  "LU → Luxembourg":{
+    "FedEx": "LU660030369170220000"
+  }
+}
