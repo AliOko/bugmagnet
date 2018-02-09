@@ -1,5 +1,5 @@
 {
- "Hungary": {
+ "HU → Hungary": {
     "Hungarian Foodbank Association": "HU69 1070 0024 6667 6548 5110 0005",
     "University of Debrecen": "HU13 1003 4002 0028 2871 0000 0000",
     "Okotars-HUF": "HU02 1090 0028 0000 0007 6230 0934",
@@ -22,7 +22,7 @@
     "T-Systems Hungary-USD": "HU48 1091 8001 0000 0068 7383 0027",
     "DotRoll": "HU 06-11713005-20406563-00000000"
     },
-  "Belgium":{
+  "BE → Belgium":{
     "Eurocircuits": "BE66 2300 3095 5043",
     "Brilliant Belgium":"BE 74 4682 2047 5107",
     "ShowTex": "BE 424 473582 022811",
@@ -39,22 +39,40 @@
     "Qualifio SA": "BE78 0016 0435 9586",
     "ICRH": "BE26 3900 9658 0329"
   },
-  "France":{
+  "MD → Moldova":{
+    "Eximbank Gruppo Veneto Banca":{
+      "I.C.S. BT LEASING MD S.R.L. - MDL": "MD79EX0000000225129103MD",
+      "I.C.S. BT LEASING MD S.R.L. - EUR": "MD09EX0900000225179099EU",
+      "I.C.S. BT LEASING MD S.R.L. - USD": "MD03EX0900002251129103US"
+    },
+    "Moldova Agroindbank":{
+      "I.C.S. BT LEASING MD S.R.L. - MDL": "MD24AG000000022513016106 ",
+      "I.C.S. BT LEASING MD S.R.L. - EUR": "MD02AG000000022513016114 ",
+      "I.C.S. BT LEASING MD S.R.L. - USD": "MD56AG000000022513016112"
+    },
+    "Moldinconbank":{
+      "I.C.S. BT LEASING MD S.R.L. - MDL": "MD56ML000000002251809603"
+    },
+    "BCR Chisinau":{
+      "I.C.S. BT LEASING MD S.R.L. - MDL": "MD05RN000000002224101734"
+    }
+  },
+  "FR → France":{
     "Eurocircuits": "FR76 3000 4025 5500 0102 6943 312"
   },
-  "Suisse":{
+  "CH → Suisse":{
     "Eurocircuits": "CH34 0076 5000 A087 8070 4"
   },
-  "Montenegro":{
+  "ME → Montenegro":{
     "ME-NET": "ME25510000000001998725"
   },
-  "Albania":{
+  "AL → Albania":{
     "Nehemiah Gateway": "AL03209425530000550024220002"
   },
-  "Germany": {
+  "DE → Germany": {
     "Nehemiah Gateway": "DE66 7605 0101 0011 0409 38"
   },
-  "Luxembourg":{
+  "LU → Luxembourg":{
     "FedEx": "LU660030369170220000"
   }
 }
