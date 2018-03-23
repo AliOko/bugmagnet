@@ -63,10 +63,12 @@
     "Makedonski Karitas": "MK07300701000655493"
   },
   "FR → France":{
-    "Eurocircuits": "FR76 3000 4025 5500 0102 6943 312"
+    "Eurocircuits": "FR76 3000 4025 5500 0102 6943 312",
+    "TIMS": "FR60 2004 1010 1614 7248 3S03 734"
   },
-  "CH → Suisse":{
-    "Eurocircuits": "CH34 0076 5000 A087 8070 4"
+  "CH → Switzerland":{
+    "Eurocircuits": "CH34 0076 5000 A087 8070 4",
+    "TIMS": "CH21 0900 0000 3073 8122 5"
   },
   "ME → Montenegro":{
     "ME-NET": "ME25510000000001998725"
@@ -75,9 +77,16 @@
     "Nehemiah Gateway": "AL03209425530000550024220002"
   },
   "DE → Germany": {
-    "Nehemiah Gateway": "DE66 7605 0101 0011 0409 38"
+    "Nehemiah Gateway": "DE66 7605 0101 0011 0409 38",
+    "TIMS": "DE77 7601 0085 0473 2298 58"
   },
   "LU → Luxembourg":{
     "FedEx": "LU660030369170220000"
+  },
+  "PT → Portugal":{
+    "ENAMORATA Lda.": "PT50001000004764687000195",
+    "ADCE": "PT 50 0018 0003 2329082802027",
+    "MADRUGADA-ASSOC": "PT 50004571944023097302619",
+    "TIMS": "PT50 0018 0388 0020 0019 8907 7"
   }
 }
