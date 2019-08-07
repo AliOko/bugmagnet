@@ -1,0 +1,23 @@
+{
+  "Henan Suwei Electronic Technology Co Ltd": {
+    "Account owner’s full name": "Henan Suwei Electronic Technology Limited",
+    "Street and premises number": "A-805, Xinghua Building",
+    "Postal code": "450000",
+    "Town": "Zhengzhou",
+    "Province": "Henan",
+    "account": {
+      "1 - Company Account (Offshore)": {
+        "Account number": "370324543883",
+        "Swift code": "HASEHKHH"
+      },
+      "2 - Company Account": {
+        "Account number": "76200078814500000511",
+        "Swift code": "SPDBCNSH090"
+      },
+      "3 - Private Account": {
+        "Account number": "60134243215",
+        "Swift code": "WUBAHKHH"
+      }
+    }
+  }
+}
