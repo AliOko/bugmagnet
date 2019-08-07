@@ -19,5 +19,69 @@
         "Swift code": "WUBAHKHH"
       }
     }
+  },
+  "NOVOPRO BIOSCIENCE INC.": {
+    "Account owner’s full name": "NOVOPRO BIOSCIENCE INC.",
+    "Street and premises number": "No.6555 HuminRoad",
+    "Postal code": "201101",
+    "Town": "Shanghai",
+    "Province": "Minhang ",
+    "account": {
+      "1 - For Europe Payment": {
+        "Account number": "31033931000220019581",
+        "Swift code": "PCBCCNBJSHX"
+      },
+      "2 - For US Dollar Payment": {
+        "Account number": "31014931000220019571",
+        "Swift code": "PCBCCNBJSHX"
+      }
+    }
+  },
+  "ERANET INTERNATIONAL LIMITED": {
+    "Account owner’s full name": "ERANET INTERNATIONAL LIMITED",
+    "Street and premises number": "2 7/F TRANS ASIA CENTRE 18 KIN HONG STREET KWAI CHUNG N.T",
+    "Postal code": "999077",
+    "Town": "Hong Kong",
+    "Province": "Hongkong ",
+    "account": {
+      "1": {
+        "Account number": "808289466838",
+        "Swift code": "HSBCHKHHHKH"
+      },
+      "2": {
+        "Account number": "01288192070659",
+        "Swift code": "BKCHHKHHXXX"
+      },
+      "3": {
+        "Account number": "25039066000297",
+        "Swift code": "CITIHKAX"
+      }
+    }
+  },
+  "Maling Shaolin Kung Fu Academy": {
+    "Account owner’s full name": "Bao Kang Jian",
+    "Street and premises number": "No. 94 Zhong Wu Road",
+    "Postal code": "221400",
+    "Town": "Xinyi City",
+    "Province": "Jiangsu",
+    "account": {
+      "1": {
+        "Account number": "445050101880579971",
+        "Swift code": "BKCHCNBJ940"
+      }
+    }
+  },
+  "CNEX Foundation Limited": {
+    "Account owner’s full name": "CNEX Foundation Limited",
+    "Street and premises number": "2nd Floor, Building No 1. Jing Yuan, #3 Guangqu Rd",
+    "Postal code": "100124",
+    "Town": "Beijing",
+    "Province": "Pekin",
+    "account": {
+      "1": {
+        "Account number": "848113080838",
+        "Swift code": "HSBCHKHHHKH"
+      }
+    }
   }
 }
