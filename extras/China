@@ -83,5 +83,35 @@
         "Swift code": "HSBCHKHHHKH"
       }
     }
+  },
+  "University of Nottingham Ningbo China": {
+    "Account owner’s full name": "University of Nottingham Ningbo China",
+    "Street and premises number": "199 Taikang East Road",
+    "Postal code": "315100",
+    "Town": "Ningbo",
+    "Province": "Zhejiang",
+    "account": {
+      "1": {
+        "Account number": "376658330575",
+        "Swift code": "BKCHCNBJ92A"
+      }
+    }
+  },
+  "Xi'an Jiaotong Univeristy": {
+    "Account owner’s full name": "Xi'an Jiaotong Univeristy",
+    "Street and premises number": "No.28, Xianning West Road",
+    "Postal code": "710049",
+    "Town": "Xi'an",
+    "Province": "Shaanxi",
+    "account": {
+      "1 - EUR": {
+        "Account number": "102400215168",
+        "Swift code": "BKCHCNBJ620"
+      },
+      "2 - USD": {
+        "Account number": "103600215153",
+        "Swift code": "BKCHCNBJ620"
+      }
+    }
   }
 }
