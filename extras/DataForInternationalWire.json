@@ -1,108 +1,101 @@
 {
-  "HU → Hungary": {
-    "Hungarian Foodbank Association": "HU69 1070 0024 6667 6548 5110 0005",
-    "University of Debrecen": "HU13 1003 4002 0028 2871 0000 0000",
-    "Okotars-HUF": "HU02 1090 0028 0000 0007 6230 0934",
-    "Okotars-USD": "HU52 1091 8001 0000 0007 6230 1014",
-    "Okotars-EUR": "HU16 1091 8001 0000 0007 6230 0013",
-    "BUDPORT-HUF": "HU 68 103000021057903849020017",
-    "BUDPORT-EUR": "HU 73 103000021057903848820010",
-    "BUDPORT-GBP": "HU 83 103000021057903840420018",
-    "Health Guard Hungary-HUF": "HU53 1160 0006 0000 0000 7853 4928",
-    "Health Guard Hungary-EUR": "HU98 1160 0006 0000 0000 7853 4894",
-    "Health Guard Hungary-USD": "HU82 1070 0536 2530 6808 5010 0002",
-    "eCon Engineering-HUF": "HU25 1080 0007 2000 0000 1208 0018",
-    "eCon Engineering-EUR": "HU49 1080 0007 3000 0000 1208 0026",
-    "eCon Engineering-USD": "HU73 1080 0007 4000 0000 1208 0034",
-    "University of Szeged-Medicine": "HU94-10004012-10008016-00220332",
-    "University of Szeged-Foundation": "HU79-10004885-10002010-00120335",
-    "British Council Hungary": "HU46 1080 0007 7723 7006 0000 0000",
-    "T-Systems Hungary-HUF": "HU17 1091 8001 0000 0068 7383 0003",
-    "T-Systems Hungary-EUR": "HU22 1091 8001 0000 0068 7383 0010",
-    "T-Systems Hungary-USD": "HU48 1091 8001 0000 0068 7383 0027",
-    "DotRoll": "HU 06-11713005-20406563-00000000"
-  },
-  "BE → Belgium": {
-    "Eurocircuits": "BE66 2300 3095 5043",
-    "Brilliant Belgium": "BE 74 4682 2047 5107",
-    "ShowTex": "BE 424 473582 022811",
-    "WGEO Belgium Branch Ltd-EUR": "BE78 9490 0787 0086",
-    "WGEO Belgium Branch Ltd-USD": "BE67 9490 0787 0187",
-    "TransStock-KBC": "BE45 7340 2116 3789",
-    "TransStock-Argenta": "BE03 9795 3448 7684",
-    "Dewit Law Office-Professional": "BE05 6300 2393 1575",
-    "Dewit Law Office-3rd party": "BE22 6303 2004 0647",
-    "Creative Belgium": "BE28 2100 3594 5020",
-    "FedEx": "BE75437750432151",
-    "JEF Europe": "BE36 0011 1287 9481",
-    "WeForest": "BE75734029550451",
-    "Qualifio SA": "BE78001604359586",
-    "ICRH": "BE26390096580329",
-    "AEGEE-Europe": "BE34310158624590"
-  },
-  "MD → Moldova": {
-    "Eximbank Gruppo Veneto Banca": {
-      "I.C.S. BT LEASING MD S.R.L. - MDL": "MD79EX0000000225129103MD",
-      "I.C.S. BT LEASING MD S.R.L. - EUR": "MD09EX0900000225179099EU",
-      "I.C.S. BT LEASING MD S.R.L. - USD": "MD03EX0900002251129103US"
+  "BG Bulgaria":{
+    "Animal Rescue Sofia":{
+      "Account owner’s full name": "Animal Rescue Sofia Foundation",
+      "Street and premises number": "23 James Bourchier blvd",
+      "Postal code": "1407",
+      "Town": "Sofia",
+      "IBAN":{
+        "EUR": "BG50FINV91501215999956",
+        "BGN": "BG07FINV91501215999954"
+      }
     },
-    "Moldova Agroindbank": {
-      "I.C.S. BT LEASING MD S.R.L. - MDL": "MD24AG000000022513016106",
-      "I.C.S. BT LEASING MD S.R.L. - EUR": "MD02AG000000022513016114",
-      "I.C.S. BT LEASING MD S.R.L. - USD": "MD56AG000000022513016112"
-    },
-    "Moldinconbank": {
-      "I.C.S. BT LEASING MD S.R.L. - MDL": "MD56ML000000002251809603"
-    },
-    "BCR Chisinau": {
-      "I.C.S. BT LEASING MD S.R.L. - MDL": "MD05RN000000002224101734"
+    "TAVEX EOOD":{
+      "Account owner’s full name": "TAVEX EOOD",
+      "Street and premises number": "Blvd. Sitnyakovo 48",
+      "Postal code": "1505",
+      "Town": "Sofia",
+      "IBAN":{
+        "BGN": "BG95RZBB91551027818607",
+        "USD": "BG37RZBB91551127818600",
+        "GBP": "BG78RZBB91551527818605",
+        "EUR": "BG32UNCR70001519753396"
+      }
     }
   },
-  "MK → Macedonia": {
-    "Foundation Centre of Islamic Civilization": "MK07270722000009871",
-    "Ensemble of Folk Instruments and Songs": "MK07200001291154091",
-    "Makedonski Karitas": "MK07300701000655493"
+  "EE Estonia":{
+    "TAVID AS":{
+      "Account owner’s full name": "TAVID AS",
+      "Street and premises number": "Aia 5",
+      "Postal code": "10111",
+      "Town": "Tallinn",
+      "IBAN":{
+        "EUR": "EE481700017000107462",
+        "USD": "EE251700017000107488",
+        "SEK": "EE531700017000137539",
+        "NOK": "EE201700017000305264",
+        "DKK": "EE381700017000380988",
+        "GBP": "EE821700017000411624",
+        "RUB": "EE461700017000463779",
+        "AUD": "EE571700017000539629",
+        "CZK": "EE841700017000540016",
+        "CHF": "EE331700017000548597",
+        "CAD": "EE341700017000602996",
+        "JPY": "EE481700017000631844",
+        "PLN": "EE251700017000659127",
+        "HUF": "EE781700017000659143",
+        "LTL": "EE621700017001136380",
+        "BGN": "EE791700017002848318",
+        "SGD": "EE351700017003391534"
+      }
+    }
   },
-  "FR → France": {
-    "Eurocircuits": "FR7630004025550001026943312",
-    "TIMS": "FR6020041010161472483S03734"
+  "FI Finland":{
+    "TAVEX":{
+      "Account owner’s full name": "TAVEX OY",
+      "Street and premises number": "Fabianinkatu 12",
+      "Postal code": "00100",
+      "Town": "Helsinki",
+      "IBAN":{
+        "EUR - Nordea Bank": "FI96 1470 3000 2038 62",
+        "EUR - Danske Bank": "FI 24 8000 1670 5221 10",
+        "EUR - Pohjola Bank": "FI45 5723 0220 4889 31"
+      }
+    }
   },
-  "CH → Switzerland": {
-    "Eurocircuits": "CH3400765000A08780704",
-    "TIMS": "CH2109000000307381225",
-    "Plant-for-the-Planet": "CH0600778202454512001"
-  },
-  "ME → Montenegro": {
-    "ME-NET": "ME25510000000001998725"
-  },
-  "AL → Albania": {
-    "Nehemiah Gateway": "AL03209425530000550024220002"
-  },
-  "DE → Germany": {
-    "Nehemiah Gateway": "DE66760501010011040938",
-    "TIMS": "DE77760100850473229858"
-  },
-  "LU → Luxembourg": {
-    "FedEx": "LU660030369170220000"
-  },
-  "PT → Portugal": {
-    "ENAMORATA Lda.": "PT50001000004764687000195",
-    "ADCE": "PT50001800032329082802027",
-    "MADRUGADA-ASSOC": "PT50004571944023097302619",
-    "TIMS": "PT50001803880020001989077"
-  },
-  "DE → Deutschland": {
-    "Plant-for-the-Planet": "DE13700205000000200000"
-  },
-  "IT → Italy": {
-    "Plant-for-the-Planet": "IT70S0501811800000012284030"
-  },
-  "BG → Bulgaria": {
-    "Central Depository AD": {
-      "1": "BG70UNCR96601451876602",
-      "2": "BG82UNCR96601051876613",
-      "3": "BG32UNCR96601051876640",
-      "4": "BG38UNCR96601051876629"
+  "PL Poland":{
+    "Inwestpol-Consulting Sp. z o.o.":{
+      "Account owner’s full name": "Inwestpol-Consulting Sp. z o.o.",
+      "Street and premises number": "ul. Asesora 72",
+      "Postal code": "80-119",
+      "Town": "Gdańsk",
+      "IBAN":{
+        "PLN - BOŚ": "PL 82 1540 1098 2001 5570 2210 0001",
+        "EUR - BOŚ": "PL 55 1540 1098 2001 5570 2210 0002",
+        "USD - BOŚ": "PL 28 1540 1098 2001 5570 2210 0003"
+      }
+    },
+    "Inwestpol-Consulting Poland sp.z o.o.":{
+      "Account owner’s full name": "Inwestpol-Consulting Poland sp.z o.o.",
+      "Street and premises number": "ul.Przemysłowa 4",
+      "Postal code": "83-050",
+      "Town": "Kolbudy",
+      "IBAN":{
+        "PLN - BOŚ": "PL 21 1540 1098 2109 9129 4621 0001",
+        "EUR - BOŚ": "PL 91 1540 1098 2109 9129 4621 0002",
+        "USD - BOŚ": "PL 64 1540 1098 2109 9129 4621 0003"
+      }
+    },
+    "Inwestpol-Consulting Eksport sp.z o.o.":{
+      "Account owner’s full name": "Inwestpol-Consulting Eksport sp.z o.o.",
+      "Street and premises number": "ul. Asesora 72",
+      "Postal code": "80-119",
+      "Town": "Gdańsk",
+      "IBAN":{
+        "PLN - BPH": "PL 11 1060 0076 0000 3280 0006 0375",
+        "EUR - BPH": "PL 36 1060 0076 0000 3300 0079 3759",
+        "USD - BPH": "PL 89 1060 0076 0000 3300 0079 3775"
+      }
     }
   }
 }
