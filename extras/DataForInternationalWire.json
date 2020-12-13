@@ -1,0 +1,101 @@
+{
+  "BG Bulgaria":{
+    "Animal Rescue Sofia":{
+      "Account owner’s full name": "Animal Rescue Sofia Foundation",
+      "Street and premises number": "23 James Bourchier blvd",
+      "Postal code": "1407",
+      "Town": "Sofia",
+      "IBAN":{
+        "EUR": "BG50FINV91501215999956",
+        "BGN": "BG07FINV91501215999954"
+      }
+    },
+    "TAVEX EOOD":{
+      "Account owner’s full name": "TAVEX EOOD",
+      "Street and premises number": "Blvd. Sitnyakovo 48",
+      "Postal code": "1505",
+      "Town": "Sofia",
+      "IBAN":{
+        "BGN": "BG95RZBB91551027818607",
+        "USD": "BG37RZBB91551127818600",
+        "GBP": "BG78RZBB91551527818605",
+        "EUR": "BG32UNCR70001519753396"
+      }
+    }
+  },
+  "EE Estonia":{
+    "TAVID AS":{
+      "Account owner’s full name": "TAVID AS",
+      "Street and premises number": "Aia 5",
+      "Postal code": "10111",
+      "Town": "Tallinn",
+      "IBAN":{
+        "EUR": "EE481700017000107462",
+        "USD": "EE251700017000107488",
+        "SEK": "EE531700017000137539",
+        "NOK": "EE201700017000305264",
+        "DKK": "EE381700017000380988",
+        "GBP": "EE821700017000411624",
+        "RUB": "EE461700017000463779",
+        "AUD": "EE571700017000539629",
+        "CZK": "EE841700017000540016",
+        "CHF": "EE331700017000548597",
+        "CAD": "EE341700017000602996",
+        "JPY": "EE481700017000631844",
+        "PLN": "EE251700017000659127",
+        "HUF": "EE781700017000659143",
+        "LTL": "EE621700017001136380",
+        "BGN": "EE791700017002848318",
+        "SGD": "EE351700017003391534"
+      }
+    }
+  },
+  "FI Finland":{
+    "TAVEX":{
+      "Account owner’s full name": "TAVEX OY",
+      "Street and premises number": "Fabianinkatu 12",
+      "Postal code": "00100",
+      "Town": "Helsinki",
+      "IBAN":{
+        "EUR - Nordea Bank": "FI96 1470 3000 2038 62",
+        "EUR - Danske Bank": "FI 24 8000 1670 5221 10",
+        "EUR - Pohjola Bank": "FI45 5723 0220 4889 31"
+      }
+    }
+  },
+  "PL Poland":{
+    "Inwestpol-Consulting Sp. z o.o.":{
+      "Account owner’s full name": "Inwestpol-Consulting Sp. z o.o.",
+      "Street and premises number": "ul. Asesora 72",
+      "Postal code": "80-119",
+      "Town": "Gdańsk",
+      "IBAN":{
+        "PLN - BOŚ": "PL 82 1540 1098 2001 5570 2210 0001",
+        "EUR - BOŚ": "PL 55 1540 1098 2001 5570 2210 0002",
+        "USD - BOŚ": "PL 28 1540 1098 2001 5570 2210 0003"
+      }
+    },
+    "Inwestpol-Consulting Poland sp.z o.o.":{
+      "Account owner’s full name": "Inwestpol-Consulting Poland sp.z o.o.",
+      "Street and premises number": "ul.Przemysłowa 4",
+      "Postal code": "83-050",
+      "Town": "Kolbudy",
+      "IBAN":{
+        "PLN - BOŚ": "PL 21 1540 1098 2109 9129 4621 0001",
+        "EUR - BOŚ": "PL 91 1540 1098 2109 9129 4621 0002",
+        "USD - BOŚ": "PL 64 1540 1098 2109 9129 4621 0003"
+      }
+    },
+    "Inwestpol-Consulting Eksport sp.z o.o.":{
+      "Account owner’s full name": "Inwestpol-Consulting Eksport sp.z o.o.",
+      "Street and premises number": "ul. Asesora 72",
+      "Postal code": "80-119",
+      "Town": "Gdańsk",
+      "IBAN":{
+        "PLN - BPH": "PL 11 1060 0076 0000 3280 0006 0375",
+        "EUR - BPH": "PL 36 1060 0076 0000 3300 0079 3759",
+        "USD - BPH": "PL 89 1060 0076 0000 3300 0079 3775"
+      }
+    }
+  }
+}
